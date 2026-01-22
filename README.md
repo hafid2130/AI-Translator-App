@@ -1,5 +1,5 @@
 # AI-Translator-App
-A simple android app that use python to process, a little showcase from my project to be shown to my class
+A simple android apps that use python to process, a little showcase from my project to be shown to my class
 
 
 AI Voice Translator App
